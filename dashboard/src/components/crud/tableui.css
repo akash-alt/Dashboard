@@ -1,0 +1,16 @@
+.add-style{
+    border: 1px solid green;
+    color: green;
+    padding: 10px;
+    border-radius: 5px;
+}
+span{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.add-style:hover{
+    border: 1px solid green;
+    color: green;
+
+}
